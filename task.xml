@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE register SYSTEM "task.dtd">
+<task>
+    <name>Complete testing</name>
+    <description>Complete testing for the new feature in 2 days</description>
+    <date>12/12/2012</date>
+    <time>11:00:00</time>
+    <label>todo</password>
+</task>

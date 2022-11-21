@@ -1,0 +1,7 @@
+<!ELEMENT task (name,description,date,time,label)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+<!ATTLIST label type (todo,in progress,done) "todo">
